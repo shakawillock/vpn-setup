@@ -93,4 +93,40 @@ Example 3B
   <img src="https://i.imgur.com/kxRUzd3.png" alt="Remote Desktop Connection"/>
 </p>
 
+When we look up the IP Address for this Virtual Machine through www.whatismyipaddress.com we see that this Virtual Machine is showing the location for Ireland
+
+Example 3C
+<p>
+  <img src="https://i.imgur.com/UGWwD9g.png" alt="What Is My IP Address" />
+</p>
+
+Step 4: Connecting To VPN
+
+Using the local computer go to protonvpn.com and create a free account. Once you are logged into your account, copy the URL from the Proton VPN website and paste the URL in the address bar of your Virtual Machine web browser
+
+Example 4A
+
+<p>
+  <img src="https://i.imgur.com/tFFgUHn.png" alt="Proton VPN Account"/>
+</p>
+
+Once you have logged into your Proton VPN account on the Virtual Machine, click on the Downloads tab and then click on Download on the Windows version. Once the ProtonVPN application is installed we will log in using the credentials
+we used when setting up a free account on ProtonVPN. We will then connect to the VPN through the installed app.
+
+Example 4B
+
+<p>
+  <img src="https://i.imgur.com/SQTLfK1.png" alt="Proton VPN Client" />
+</p>
+
+On the left hand side of the VPN client you can select a country where you want your VPN to be
+
+Next we will look at the IP address again using the Virtual Machine web browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com shows another IP address using the VPN from Japan.
+
+Example 4C
+
+<p>
+  <img src="https://i.imgur.com/pBT8hvB.png" alt="Proton VPN Client" />
+</p>
+
 <br />
