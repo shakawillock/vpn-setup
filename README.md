@@ -20,8 +20,7 @@ This tutorial outlines the prerequisites and installation using a VPN.<br />
 - Step 1: Locate Local IP
 - Step 2: Setting up Virtual Machine using Azure
 - Step 3: Locating IP through Virtual Machine
-- Step 4: Connecting to VPN
-- Step 5: Locating IP through VPN
+- Step 4: Connecting to VPN & Locating IP through VPN
 
 <h2>Installation Steps</h2>
 
