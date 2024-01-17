@@ -129,4 +129,6 @@ Example 4C
   <img src="https://i.imgur.com/pBT8hvB.png" alt="Proton VPN Client" />
 </p>
 
+We have utilized three different IP addresses just from your local computer to connect to the Internet. Local IP: 102.129.152.56, Virtual Machine IP: 20.234.61.102 and Virtual Machine VPN IP: 45.14.71.10
+
 <br />
